@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calentament</string>
+    <string name="title_activity_calculadora">Calculadora</string>
+    <string name="title_activity_imatge">Imatge</string>
+    <string name="title_activity_formulari">Formulari</string>
+    <string name="title_activity_text_dos_columnes">TextDosColumnes</string>
+    <string name="title_activity_navegador">Navegador</string>
+    <string name="title_activity_tria_colors">TriaColors</string>
+</resources>
